@@ -34,3 +34,5 @@ The dataset reveals that a small handful of microbial species (also called opera
   - On the chart, the x values are the otu_ids, the y values are the sample_values
   - The colors of the bubbles are based on otu_ids, and the hovertext are the otu_labels
 
+### References
+Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/Links to an external site.
