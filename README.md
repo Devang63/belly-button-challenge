@@ -5,6 +5,8 @@ This is an interactive dashboard to explore the http://robdunnlab.com/projects/b
 
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
+![image](https://github.com/Devang63/belly-button-challenge/assets/128569122/9d0adfab-83d2-44fb-aa9a-d3adc8bc272b)
+
 ## Dasshbord
 ### Drop Down Menu
   - Select the Test Subject ID No. with the drop down menu to toggle the visualizations (bar, gauge, bubble charts)
@@ -32,4 +34,3 @@ The dataset reveals that a small handful of microbial species (also called opera
   - On the chart, the x values are the otu_ids, the y values are the sample_values
   - The colors of the bubbles are based on otu_ids, and the hovertext are the otu_labels
 
-![image](https://github.com/Devang63/belly-button-challenge/assets/128569122/c931664f-abb7-4c0e-ab3d-5caeecafae62)
